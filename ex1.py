@@ -1,3 +1,5 @@
+#not yet finished, but rock paper scissors
+
 
 try:
 	From random import *
